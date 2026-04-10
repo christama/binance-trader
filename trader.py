@@ -45,4 +45,4 @@ if __name__ == '__main__':
 
     # Get start
     t = Trading(option)
-    t.run()
+    t.run() 
